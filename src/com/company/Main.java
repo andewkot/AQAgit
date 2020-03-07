@@ -11,5 +11,9 @@ public class Main {
         System.out.println("Hello");
         System.out.println("Hello");
         System.out.println("Hello");
+        System.out.println("slo");
+        System.out.println("slo");
+        System.out.println("slo");
+        System.out.println("slo");
     }
 }
