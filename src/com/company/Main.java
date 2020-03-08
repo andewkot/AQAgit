@@ -18,6 +18,9 @@ public class Main {
         System.out.println("slo");
         System.out.println("slo");
         System.out.println("slo");
+        System.out.println("slo");
+        System.out.println("slo");
+        System.out.println("slo");
 
     }
 }

@@ -5,5 +5,7 @@ public class A {
     int a1 = 10;
     int a1 = 10;
     int a1 = 10;
+    int a1 = 10;
+    int a1 = 10;
 
 }
